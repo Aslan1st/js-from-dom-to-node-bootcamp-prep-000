@@ -1,1 +1,1 @@
-consolelog.js("Hello, World?")
+console.log("Hello, World?")
